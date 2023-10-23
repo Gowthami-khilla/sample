@@ -1,2 +1,2 @@
 # sample
-practice the git
+practice the git iam practicing
